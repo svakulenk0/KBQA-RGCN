@@ -68,7 +68,7 @@ py==1.8.0
 pyasn1==0.4.7
 pyasn1-modules==0.2.7
 pybind11==2.2.4
-Pygments==2.2.0
+Pygments==2.7.4
 pymagnitude==0.1.99
 pymongo==3.9.0
 pyparsing==2.4.2
