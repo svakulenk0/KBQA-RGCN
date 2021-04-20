@@ -59,7 +59,7 @@ pluggy==0.13.0
 prompt-toolkit==1.0.15
 protobuf==3.6.1
 ptyprocess==0.6.0
-py==1.8.0
+py==1.10.0
 pyasn1==0.4.7
 pyasn1-modules==0.2.7
 pybind11==2.2.4
