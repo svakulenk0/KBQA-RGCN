@@ -89,7 +89,7 @@ six==1.12.0
 sklearn==0.0
 smart-open==1.7.1
 tensorboard==1.11.0
-tensorflow==1.11.0
+tensorflow==2.5.0
 tensorflow-estimator==2.0.1
 tensorflow-tensorboard==0.4.0
 termcolor==1.1.0
