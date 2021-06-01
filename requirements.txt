@@ -92,7 +92,7 @@ Theano==1.0.4
 torch==0.4.1
 tornado==5.1.1
 traitlets==4.3.2
-urllib3==1.24.1
+urllib3==1.26.5
 vaderSentiment==3.2.1
 wcwidth==0.1.7
 Werkzeug==0.15.3
